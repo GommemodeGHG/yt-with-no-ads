@@ -1,3 +1,5 @@
+LESE ZU ERST
+
 📺 Python YouTube Desktop Player (Werbefrei)
 Ein einfacher, werbefreier YouTube-Client für Windows. Dieses Programm nutzt yt-dlp zum Abrufen der Videos und den VLC Media Player für die Wiedergabe.
 
